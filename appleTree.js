@@ -73,6 +73,9 @@ class AppleTree {
        * jika umur pohon lebih kecil dari umur pohon berhenti tumbuh, maka pohon bertambah tinggi secara random
        * tinggi pohon dibulatkan ke bulatan terbesar (dalam meter)
        */
+      if(this._age >= this._limitAge){
+
+      };
   }
 
   //   Produce some fruits
